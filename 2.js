@@ -14,5 +14,5 @@ function arithmetic(a, b, operator){
         return "No such result"
     }
 }
-
+console.log(arithmetic(5, 3, "add"))
 module.exports = arithmetic
